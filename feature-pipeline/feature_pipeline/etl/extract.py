@@ -12,7 +12,6 @@ from yarl import URL
 API_URL = "https://drive.google.com/uc?export=download&id=1y48YeDymLurOTUO-GeFOUXVNc9MCApG5"
 
 from feature_pipeline import utils, settings
-from feature_pipeline import settings
 
 logger = utils.get_logger(__name__)
 
