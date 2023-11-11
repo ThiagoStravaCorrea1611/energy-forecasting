@@ -1,8 +1,8 @@
+# Libraries
+from dotenv import load_dotenv
 import os
 from pathlib import Path
 from typing import Union
-
-from dotenv import load_dotenv
 
 PATH_ROOT_DIR = "C:\\Users\TOCR\\Documents\\projetos_estudo\\energy-forecasting"
 
